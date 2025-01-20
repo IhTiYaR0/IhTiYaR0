@@ -1,16 +1,26 @@
-## Hi there 👋
+## 📊 Статистика моей активности
 
-<!--
-**IhTiYaR0/IhTiYaR0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Ваши статистики](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-Here are some ideas to get you started:
+![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 Мои проекты
+
+- [Проект 1](https://github.com/your-username/project-1) - Описание проекта.
+- [Проект 2](https://github.com/your-username/project-2) - Описание проекта.
+
+
+
+
+## 📫 Связаться со мной
+
+- ✉️ Email: your.email@example.com
+- 💬 Discord: your-discord-id
+- 🌍 Website: [yourwebsite.com](https://yourwebsite.com)
+
+
+
+
+![My Coding Journey](https://example.com/path/to/image.png)
