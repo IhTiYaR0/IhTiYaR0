@@ -1,1 +1,1 @@
-[![Screenshot](https://i.imgur.com/pg7x4eN.png)](https://github.com/IhTiYaR0)
+[![Screenshot](https://i.imgur.com/VZOymIf.png)](https://github.com/IhTiYaR0)
