@@ -68,26 +68,3 @@
 
 ⭐️ _Feel free to star my projects if you find them interesting!_  
 
-
-
-
-
-
-
-
-
-
-
-
-<style>
-    #discord {
-    position: relative;
-    bottom: 55px;
-    color: #5865F2;
-    }
-    #reddit {
-    position: relative;
-    bottom: 55px;
-    color: #FF4500;
-    }
-</style>
