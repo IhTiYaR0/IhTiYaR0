@@ -22,26 +22,13 @@
 ### ⚙️ Technologies & Tools
 
 <p align="center" id="icons">
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=yellow" alt="Linux" />
-  </a>
-  <a href="https://www.archlinux.org" target="_blank">
-    <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=ArchLinux&logoColor=white" alt="Arch Linux" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow" alt="Python" />
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/IhTiYaR0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://hyprland.org" target="_blank">
-    <img src="https://img.shields.io/badge/Hyprland-7E42F4?style=for-the-badge&logo=hyprland" alt="Hyprland" />
-  </a>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=yellow" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=ArchLinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Hyprland-7E42F4?style=for-the-badge&logo=hyprland" alt="Hyprland" />
 </p>
-
 
 ---
 
@@ -62,6 +49,7 @@
 <div style="display: inline-block; margin: 14px 0px;">
 
 **Discord**: [Ihti0](https://discord.gg/b6uxMTAJ)
+
 
 **Reddit**: [IHTI Arch](https://www.reddit.com/user/Cold_One7083/)
 
