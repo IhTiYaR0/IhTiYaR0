@@ -48,7 +48,7 @@
 ### 📫 Connect with Me
 <div style="display: inline-block; margin: 14px 0px;">
 
-**Youtube**: [Ihti0](https://www.youtube.com/channel/UCHo40Sc2g8jFYXuLxM73-lA)
+**Youtube**: [Ihti Arch](https://www.youtube.com/channel/UCHo40Sc2g8jFYXuLxM73-lA)
 
 
 **Discord**: [Ihti0](https://discord.gg/b6uxMTAJ)
